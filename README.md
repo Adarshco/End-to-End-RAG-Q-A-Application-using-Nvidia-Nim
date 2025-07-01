@@ -1,1 +1,1 @@
-# End-to-End-RAG-Q-A-Application-using-Nvidia-Nim
+# Nvidia-NIM
